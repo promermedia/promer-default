@@ -1,0 +1,8 @@
+{
+  "name": "promer-default",
+  "version": "1.0.0",
+  "description": "Vanilla JS default starting point",
+  "license": "MIT",
+  "repository": "promermedia/promer-default",
+  "main": "index.html"
+}
